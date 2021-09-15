@@ -1,0 +1,12 @@
+folders:
+  - name: main
+    bookmarks:
+      - url: "https://www.google.co.jp"
+        name: google
+        addDate: "1630468277"
+        iconUrl: "https://www.google.co.jp/images/branding/googleg/1x/googleg_standard_color_128dp.png" # png|ico
+bookmarks:
+  - url: "https://www.yahoo.co.jp"
+    name: yahoo
+    addDate: "1630468277"
+    iconUrl: "https://s.yimg.jp/c/icon/s/bsc/2.0/favicon.ico" # png|ico
